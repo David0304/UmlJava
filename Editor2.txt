@@ -1,0 +1,5 @@
+package umlJava;
+
+public class Editor extends Persona{
+	public java.util.Collection editadaPor = new java.util.TreeSet();
+}

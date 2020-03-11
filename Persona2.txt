@@ -1,0 +1,18 @@
+package umlJava;
+
+
+import java.sql.Date;
+
+public class Persona2 {
+   
+	private String nombre;
+   
+	private String apellidos;
+   
+	private Date fechaNac;
+   
+	private String nacionalidad;
+
+	}
+ 
+

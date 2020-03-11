@@ -1,0 +1,5 @@
+package umlJava;
+
+public class Productor extends Persona{
+	public java.util.Collection producidaPor = new java.util.TreeSet();
+}

@@ -1,0 +1,10 @@
+package umlJava;
+
+public class Trailer{
+   
+	private URL url;
+   
+	private time duración;
+  
+	public java.util.Collection editor = new java.util.TreeSet();
+ 

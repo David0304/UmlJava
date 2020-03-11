@@ -1,0 +1,5 @@
+package umlJava;
+
+public class Director extends Persona{
+	public java.util.Collection dirigidaPor = new java.util.TreeSet();
+}

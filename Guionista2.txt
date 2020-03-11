@@ -1,0 +1,5 @@
+package umlJava;
+
+public class Guionista extends Persona{
+	public java.util.Collection escritaPor = new java.util.TreeSet();
+}

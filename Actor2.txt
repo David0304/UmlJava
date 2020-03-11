@@ -1,0 +1,5 @@
+package umlJava;
+
+public class Actor extends Persona{
+	public java.util.Collection interpretadoPor = new java.util.TreeSet();
+}
